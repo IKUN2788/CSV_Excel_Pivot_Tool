@@ -1,3 +1,5 @@
+<img width="1489" height="675" alt="image" src="https://github.com/user-attachments/assets/7679c9bf-e7e5-4a32-be8d-c11b9e5e5699" />
+
 # 批量处理 Excel/CSV 数据的利器：基于 Python 和 PyQt5 的目录数据分析工具
 
 在日常的数据处理工作中，我们经常会遇到需要处理大量分散在不同文件夹中的 Excel 或 CSV 文件的情况。如果手动打开每个文件去统计数据，不仅效率低下，而且容易出错。本文将介绍一个使用 Python 编写的桌面应用程序，它结合了 `PyQt5` 的图形界面和 `Pandas` 的强大数据处理能力，能够轻松实现多目录数据的批量读取、清洗、汇总和导出。
